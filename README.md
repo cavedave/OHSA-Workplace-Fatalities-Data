@@ -3,9 +3,13 @@ Dataset from the OHSA workplace fatalities cleaned up and augmented.
 
 Original CSVs from 
 https://www.osha.gov/dep/fatcat/FatalitiesFY09.csv
+
 https://www.osha.gov/dep/fatcat/FatalitiesFY10.csv
+
 https://www.osha.gov/dep/fatcat/FatalitiesFY11.csv
+
 https://www.osha.gov/dep/fatcat/FatalitiesFY12.csv
+
 https://www.osha.gov/dep/fatcat/FatalitiesFY13.csv
 
 Columns are
